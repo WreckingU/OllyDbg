@@ -1,0 +1,16 @@
+ADDI
+ADD
+BEQ
+BNE
+SLT
+J
+
+http://rivoire.cs.sonoma.edu/cs351/wemips/
+
+assume that x is in t0, and y is in t1
+1)
+while(x < y)
+x++;
+2) 
+x^y
+http://rivoire.cs.sonoma.edu/cs351/wemips/
